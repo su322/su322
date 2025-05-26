@@ -1,16 +1,32 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+su322.;A+Back-End+Developer.;An+Open+Source+Contributor.)](https://git.io/typing-svg)
 
-<!--
-**su322/su322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=su322&theme=vue-dark&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=su322&theme=vue&show_icons=true&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=su322&theme=vue&show_icons=true&hide_border=true">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=su322&theme=vue-dark&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=su322&theme=vue&layout=compact&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su322&theme=vue&layout=compact&hide_border=true">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/su322/su322/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/su322/su322/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/su322/su322/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
