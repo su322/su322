@@ -10,4 +10,4 @@ I'm **su322**, a developer who loves writing clean code, building useful tools, 
 
 ---
 
-### 🌱 I’m currently learning a wide range of modern techniques
+### 🌱 I’m currently learning a wide range of modern development techniques
